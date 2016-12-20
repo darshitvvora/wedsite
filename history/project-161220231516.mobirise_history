@@ -9,7 +9,7 @@
     },
     "versionFirst": "3.10",
     "uniqCompNum": 13,
-    "versionPublish": "3.10.1",
+    "versionPublish": "3.10.4",
     "publishType": "github",
     "publishFtpPath": "public_html",
     "gitHubName": "darshitvvora",
@@ -98,13 +98,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cooltext222375062725025-509x128-76.png",
+              "src": "images/logo.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -113,7 +111,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THE FUN BEGINS</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">COUPLE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\">OUR STORY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery2-c\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-8\">EVENTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-9\">WISHES</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">COUPLE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\">OUR STORY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery2-c\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-8\">EVENTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-9\">WISHES</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -129,33 +127,34 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dr-2000x1333-58.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
+                "image": "images/slide1.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Slide 1",
                 "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dr3-2000x1333-13.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dr5-2000x1333-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470611529594-9a532103aad2-2000x1333-90.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "images/slide3.jpg",
                 "contentAlign": "center",
-                "showTitle": false,
+                "showTitle": true,
                 "title": "Slide 3",
-                "showText": false,
+                "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
@@ -199,6 +198,7 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-4",
           "_params": {
+            "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -224,7 +224,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/darshitfilm-1400x1593-41.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dark-blue-background-wallpaper-1152x864-1400x1050-92.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -267,8 +267,9 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-b",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -292,11 +293,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/filmniyati-1400x1629-71.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "images/iphone.png"
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -331,7 +328,7 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -342,13 +339,13 @@
           "_params": {
             "showCaption": true,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-6323-2000x1333-45.jpg",
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -357,7 +354,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.2,
-            "overlayColor": "#7c706b",
+            "overlayColor": "#28324e",
             "showMeta": false,
             "darkBackground": true
           },
@@ -439,11 +436,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/11870835-1124091527614692-8035757431444236747-n-2000x1323-45.jpg",
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#d6c0b5",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
@@ -454,7 +451,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Sterling Banquets<br>3rd Floor, Topiwala Center, Near Railway Station, Off S V Road, Goregaon West, Kakaji Nagar, Jawahar Nagar, Goregaon West, Mumbai, Maharashtra 400062, India<br><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Sterling Banquets<br>3rd Floor, Topiwala Center, Near Railway Station, Off S V Road, Goregaon West, Kakaji Nagar, Jawahar Nagar, Goregaon West, Mumbai, Maharashtra 400062, India<br><br>\n<strong>CONTACTS</strong><br>Darshit Vora : +91 9664210745<br>Vipul Vora : +91 9819412199<br>Mukesh Shah : +91&nbsp;<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>"
         },
         {
@@ -465,20 +462,17 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
-            },
-            ".mbr-header__text": {
-              "color": "#ffffff"
             }
           },
           "_anchor": "form1-9",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/37763180-background-design-1-2000x1250-0.jpg",
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -532,7 +526,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "This wedsite - Crafted with love &nbsp;by &nbsp;&nbsp;<a href=\"http://www.parastechnology.com\" target=\"_blank\">Paras Technology</a>&nbsp; &amp; Picture Courtesy: NaynaS Photography<br>"
+          "text": "This wedsite - Crafted with love &nbsp;by &nbsp;<a href=\"http://www.parastechnology.com\" target=\"_blank\">Paras Technology</a> &amp; Picture Courtesy: NayanS Photography<br>"
         }
       ]
     }
