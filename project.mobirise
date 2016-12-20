@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-12-07_1745",
+    "name": "DarshitWedsNiyati",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -13,7 +13,9 @@
     "publishType": "github",
     "publishFtpPath": "public_html",
     "gitHubName": "darshitvvora",
-    "gitHubPath": "wedsite"
+    "gitHubPath": "wedsite",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -174,7 +176,7 @@
           ],
           "_name": "header3",
           "_anchor": "header3-5",
-          "title": "<i style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MEET THE COUPLE</i>",
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i style=\"font-weight: normal;\">MEET THE COUPLE</i></p>",
           "_params": {
             "showMeta": false
           },
@@ -245,7 +247,7 @@
           "headerAlign": "left",
           "title": "DARSHIT VORA",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "text": "She calls him smart, &nbsp;handsome, optimistic, reliable, visionary, &nbsp;confident and not to miss very romantic human being",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -313,7 +315,7 @@
           "headerAlign": "left",
           "title": "NIYATI SHAH",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "text": "<p>He calls her intelligent, honest, cultured, humble, dependable, affable, cute and not to miss very beautiful human being</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -382,47 +384,54 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "images/slide1-small.jpg",
-                "image": "images/slide1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2898-2000x1324-22-2000x1324-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2898-2000x1324-22.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160626-133921-2000x1125-77-2000x1125-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160626-133921-2000x1125-77.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151107-193141-1-2000x3555-14-2000x3555-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151107-193141-1-2000x3555-14.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151124-102213-2000x1125-26-2000x1125-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151124-102213-2000x1125-26.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151121-212509-2000x1125-67-2000x1125-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151121-212509-2000x1125-67.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151124-122430-2000x3555-24-2000x3555-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151124-122430-2000x3555-24.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151124-120900-2000x3555-45-2000x3555-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151124-120900-2000x3555-45.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151123-091746-2000x1125-29-2000x1125-77.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151123-091746-2000x1125-29.jpg",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide2-small.jpg",
-                "image": "images/slide2.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide3-small.jpg",
-                "image": "images/slide3.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide4-small.jpg",
-                "image": "images/slide4.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide5-small.jpg",
-                "image": "images/slide5.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide6-small.jpg",
-                "image": "images/slide6.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide7-small.jpg",
-                "image": "images/slide7.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide8-small.jpg",
-                "image": "images/slide8.jpg"
               }
             ],
-            "showText": true,
+            "showText": false,
             "fullWidth": false,
             "noGutter": true,
             "showBullets": true
@@ -512,7 +521,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Bless The Couple</a>"
         },
         {
           "_tags": [
