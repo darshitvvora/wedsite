@@ -9,7 +9,7 @@
     },
     "versionFirst": "3.10",
     "uniqCompNum": 13,
-    "versionPublish": "3.10.4",
+    "versionPublish": "3.10.1",
     "publishType": "github",
     "publishFtpPath": "public_html",
     "gitHubName": "darshitvvora",
@@ -201,7 +201,6 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-4",
           "_params": {
-            "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -270,7 +269,6 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-b",
           "_params": {
-            "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
