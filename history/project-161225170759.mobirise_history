@@ -15,8 +15,7 @@
     "gitHubName": "darshitvvora",
     "gitHubPath": "wedsite",
     "favicon": "",
-    "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-89471005-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -345,7 +344,7 @@
           "_params": {
             "showCaption": true,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -359,15 +358,40 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2,
+            "overlayColor": "#7c706b",
             "showMeta": false,
             "darkBackground": true
           },
           "title": "OUR STORY",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>We met on 23rd May 2013 and began our journey together, </p><p>Yes, we were heading towards Hyderabad for our training at MAQ..</p><p>We worked together from morning to night and still had fun, </p><p>Yes, we are engineers and so the options we had were none..</p><p>We walked, we talked, we laughed and had a jolly time, </p><p>Yes, we did not knew that we will be tied together for lifetime..</p><p>We got engaged and realized how precious our moments had been, </p><p>Yes, this is our story and we are getting married on 17th Jan 2017..</p>",
+          "text": "<p>We met on 23rd May 2013 and began our journey together, Yes, we were heading towards Hyderabad for our training at MAQ..</p><p>We worked together from morning to night and still had fun, Yes, we are engineers and so the options we had were none..</p><p>We walked, we talked, we laughed and had a jolly time, Yes, we did not knew that we will be tied together for lifetime..</p><p>We got engaged and realized how precious our moments had been, Yes, this is our story and we are getting married on 17th Jan 2017..</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_inherit": "gallery1",
