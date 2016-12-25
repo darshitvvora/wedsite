@@ -96,7 +96,7 @@
 	color: #fff;
 }
 .mbr-article P {
-	color: #b8312f;
+	color: #ffffff;
 }
 }
 
@@ -110,9 +110,15 @@ SMALL {
 #contacts2-8 {
 }
 
+#social-buttons1-e {
+}
+
 #form1-9 {
 .form-control-label {
 	color: #232323;
+}
+.mbr-header__text {
+	color: #ffffff;
 }
 }
 
